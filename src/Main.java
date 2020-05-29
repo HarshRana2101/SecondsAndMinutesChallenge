@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println(getDurationString(64, 45));
-        System.out.println(getDurationString(7500));
+        System.out.println(getDurationString(60 , 59));
+        System.out.println(getDurationString(60));
     }
 
 
